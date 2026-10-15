@@ -1,5 +1,4 @@
 **Nom et prénom :** Takwa Ben Rhouma  
-**Groupe / Binôme :**  
 **Date :** 16 octobre 2026  
 **Thème choisi :** L'IA générative
 
